@@ -7,8 +7,6 @@
 // @include     http://amininggame.com/index.php#
 // @include     http://amininggame.com/index.php
 // @include     http://amininggame.com/index.php*
-// @include     http://amininggame.com/
-// @include     http://amininggame.com*
 
 // ==/UserScript==
 
