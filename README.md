@@ -16,6 +16,10 @@ oh yea and you can get spammed with text boxes lul
 # features
 
 auto join
+
 auto boss(both)
+
 auto buy
+
 auto scientist
+
