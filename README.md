@@ -11,7 +11,7 @@ scrolling does not work sooo you kinda can go afk
 
 only good endgame i think?
 
-oh yea and you can get spammed with text boxes lul
+oh yea and you can get spammed with popups lul
 
 # features
 
