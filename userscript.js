@@ -16,7 +16,8 @@
     setInterval(function () {
         if (document.getElementsByName("timeRemaining")[0].innerText != "LEAVE") {
             document.getElementsByName("bossPortal")[0].click();
-            document.elementFromPoint(950, 330).click();
+            document.getElementsByName("buttons")[0].children[1].click();
+            document.getElementsByName("continue")[0].click();
 
         }
 
