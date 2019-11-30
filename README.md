@@ -23,3 +23,5 @@ auto buy
 
 auto scientist
 
+auto item use (yay)
+
