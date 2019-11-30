@@ -7,11 +7,11 @@ take the code and move it somewhere else
 
 goto http://amininggame.com/index.php#
 
-scrolling does not work sooo you kinda can go afk 
+scrolling does not work sooo you kinda have to afk
 
 only good endgame i think?
 
-oh yea and you can get spammed with popups lul
+oh yea and you can get spammed with popups lul (fixed?)
 
 # features
 
