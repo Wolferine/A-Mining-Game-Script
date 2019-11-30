@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AutoMine
 // @namespace    *
-// @version      0.1
+// @version      0.3
 // @description  i love it
 // @author       AkunaPaw
 // @include     http://amininggame.com/index.php#
@@ -42,7 +42,7 @@
     }, 2000);
 
     setInterval(function () {
-        if (document.getElementsByName("timeRemaining")[0].innerText == "LEAVE") {
+        if (document.getElementsByName("timeRemaining")[0].innerText != "LEAVE") {
             if (i > 19) {
                 i = 0;
             }
@@ -67,7 +67,7 @@
     var moneynow;
 
     setInterval(function () {
-        if (document.getElementsByName("timeRemaining")[0].innerText == "LEAVE") {
+        if (document.getElementsByName("timeRemaining")[0].innerText != "LEAVE") {
 
             prices[0] = Number(document.getElementsByName("price")[0].innerHTML.replace(/\,/g, ''));
             prices[1] = Number(document.getElementsByName("price")[1].innerHTML.replace(/\,/g, ''));
@@ -155,7 +155,7 @@
 
 
     setInterval(function () {
-        if (document.getElementsByName("timeRemaining")[0].innerText == "LEAVE") {
+        if (document.getElementsByName("timeRemaining")[0].innerText != "LEAVE") {
             if (document.getElementById('bc_display').innerText.replace(/\,/g, '') > 1) {
                 document.getElementsByName('hiremax_scientists')[0].click();
             }
