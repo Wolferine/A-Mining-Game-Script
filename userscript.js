@@ -39,7 +39,7 @@
         document.getElementsByName("continue")[0].click();
 
 
-    }, 2000);
+    }, 900);
 
     setInterval(function () {
         if (document.getElementsByName("timeRemaining")[0].innerText != "LEAVE") {
